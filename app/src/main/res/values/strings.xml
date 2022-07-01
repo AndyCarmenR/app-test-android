@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demoApp</string>
+    <string name="textoInicio">Este texto va a cambiar cuando presiones el botón</string>
+    <string name="hintTxt">Hola humano, cómo te llamas?</string>
+</resources>
